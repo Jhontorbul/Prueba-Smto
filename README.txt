@@ -9,11 +9,14 @@ Usuario:admin
 Pass: jhon123
 
 Plugins Creados:
-Peliculas - Post Types : CPT PARA Crear Nuevas peliculas y lista 
+Peliculas - Post Types : CPT para Crear Nuevas peliculas y listar 
 
 Plugins Usados: 
 Disable Gutenberg: Remover el editor gutenberg solo para eso y tener una interfaz antigua. 
 Advanced Custom Fields: Crear campos custom para internas
+
+Comentarios: Se deja la carpeta Insumos y Plugins para que puedan extraer de ella la carpeta de Plugins y Uploads necesarias
+para que el sitio funcione. 
 
  
 
